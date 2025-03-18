@@ -13,5 +13,5 @@ spec:
         app: hashgenerator
     spec:
       containers:
-      - name: hashgenerator
-        image: sweatwork/dwk-app1:7401b1f1c76785422cc4e74ea78c6b32d1e5e08e249aa1797111456199996e57
+        - name: hashgenerator
+          image: sweatwork/dwk-app1:7401b1f1c76785422cc4e74ea78c6b32d1e5e08e249aa1797111456199996e57
